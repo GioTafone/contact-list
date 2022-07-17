@@ -18,6 +18,6 @@ You may also see any lint errors in the console.
 
 https://dazzling-unicorn-250450.netlify.app/
 
-### `CCS`
+### `CSS`
 
 https://tailwindcss.com/docs/guides/create-react-app
